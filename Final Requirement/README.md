@@ -1,7 +1,8 @@
-FINAL PROJECT
+Name: Allysa Gorduiz
 
-Project Title: Simeon Brewers Coffee Web-Based Ordering and Administration System
+Course & Section: BSIT – 3A
 
-Student Name: Allysa F. Gorduiz
+Project Title: Simeon Brewers Coffee: Web-Based Ordering and Administration System
 
-Course & Section: BSIT 3-A
+Description:
+This repository contains the Simeon Brewers Coffee: Web-Based Ordering and Administration System and its Final System Project Documentation (PDF). The project is a web-based ordering and administration system designed to help customers place orders online while allowing administrators to efficiently manage products, orders, and transactions.
